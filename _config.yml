@@ -2,4 +2,3 @@ name: ZRT
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
-permalink: /photos
