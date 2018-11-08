@@ -19,10 +19,14 @@ h3 {
 }
 
 .project_title {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: normal;
     color: #666;
-    margin-bottom: 2px;
+    margin-bottom: 3px;
+}
+
+.exp_description {
+    font-size: 0.9em;
 }
 
 p {
