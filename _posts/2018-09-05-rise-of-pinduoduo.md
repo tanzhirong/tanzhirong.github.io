@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding the Rise of Pinduoduo"
-date: 2018-09-01
+date: 2018-09-05
 ---
 
 This July, I embarked on an Economics summer program at Fudan University in Shanghai. It had been 8 years since I last stepped into China. While I was looking forward to the new experiences at Fudan, my primary intention for the trip was to understand more about the Chinese tech phenomenon. Although China has been accused of IP infringement by the United States, she has been the source of most consumer innovation we witness today. More startling is how quickly the transition has occurred.
