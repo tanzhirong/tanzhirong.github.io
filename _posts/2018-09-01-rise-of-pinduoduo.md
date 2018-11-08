@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding the Rise of PinDuoDuo"
+title: "Understanding the Rise of Pinduoduo"
 date: 2018-09-01
 ---
 
