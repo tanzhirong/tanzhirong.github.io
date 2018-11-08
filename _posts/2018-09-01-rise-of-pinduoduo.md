@@ -8,4 +8,4 @@ This July, I embarked on an Economics summer program at Fudan University in Shan
 
 Because of my Singaporean phone number, I could not immediately link my credit card to WeChat, and the only method of financial transaction was carrying a thick stack of RMB 100 notes, just like I once did as a secondary school student while on exchange in Beijing. Despite my best attempts at imitating a local accent, the RMB 100 notes are the clearest indication that I am not a local, and occasionally I faced judgmental looks from the cashiers when I fumbled with the bills to pay for my meals. Since the route from my hotel to school was 20 minutes by foot, imagine my frustration when I could not use my phone to call a Didi, or to unlock one of the orange and yellow bicycles that reflect China’s bike-sharing culture. Thankfully, my WeChat wallet worked after a few days, and I slowly recognized how exhilarating and easy it is to be part of this online environment.
 
-![pinduoduo](pinduoduo.jpg)
+![pinduoduo](pinduoduo.jpg =250x250)
