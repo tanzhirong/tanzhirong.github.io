@@ -5,8 +5,12 @@ date: 2018-09-22
 ---
 *Some random notes - still in draft stage*
 
-workday's list selection for filling form - doesn't appear until you press "enter" button
-
 Facebook Chat button on web
+close button
+
 
 Venmo's in-app calculator
+
+Shopee's descriptor selection on filter
+
+Airbnb - public transport in map, and neighborhood descriptor
