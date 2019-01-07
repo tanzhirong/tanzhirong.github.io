@@ -8,6 +8,7 @@ date: 2018-09-22
 Facebook Chat button on web
 close button
 
+linkedin app - navigation button should appear on all profile pages
 
 Venmo's in-app calculator
 
