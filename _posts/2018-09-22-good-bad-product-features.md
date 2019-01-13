@@ -3,8 +3,9 @@ layout: post
 title: "Good and Bad Product Features"
 date: 2018-09-22
 ---
-*Some random notes - still in draft stage*
+*Just a quick list of possible product improvements based on daily product use. Will elaborate once I have more time.*
 
+##Desktop
 Facebook Chat button on web
 close button
 
