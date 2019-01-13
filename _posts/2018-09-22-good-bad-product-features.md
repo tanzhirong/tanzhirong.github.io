@@ -5,7 +5,7 @@ date: 2018-09-22
 ---
 *Just a quick list of possible product improvements based on daily product use. Will elaborate once I have more time.*
 
-<h2>Desktop</h2>
+<h4>Desktop</h4>
 Facebook Chat button on web
 close button
 
