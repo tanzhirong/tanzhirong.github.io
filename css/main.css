@@ -33,6 +33,13 @@ h3 {
     margin-top: 0px;
 }
 
+.justify_ul {
+    margin: 60px auto;
+    width: 80%;
+    text-align: left;
+    font-family: 'Helvetica Neue', 'Arial', 'Sans-Serif';
+}
+
 p {
     line-height: 1.4em;
     text-align: justify;
