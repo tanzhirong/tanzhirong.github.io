@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 80%;
+    text-align: justify;
     font-family: 'Helvetica Neue', 'Arial', 'Sans-Serif';
 }
 
@@ -27,12 +28,14 @@ h3 {
 
 .exp_description {
     font-size: 0.9em;
+    text-align: justify;
     line-height: 1.2em;
     margin-top: 0px;
 }
 
 p {
     line-height: 1.4em;
+    text-align: justify;
     color: #333;
     margin-top: 0px;
 }
